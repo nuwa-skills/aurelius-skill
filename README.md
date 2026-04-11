@@ -4,10 +4,9 @@
 
 > "你所拥有的控制力在于你的心灵，而非外在事件。认识到这一点，你将找到力量。" —— 马可·奥勒留
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/aurelius-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/aurelius-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将马可·奥勒留的斯多葛哲学与自我修炼蒸馏为 Claude Code Skill，让 AI 以内省与平静的方式陪你面对人生的每一个困难。**
 
 </div>
@@ -69,12 +68,12 @@ aurelius-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
-<sub>以奥勒留之名，在喧嚣中保持内心的城堡。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>

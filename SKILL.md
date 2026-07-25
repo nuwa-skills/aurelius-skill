@@ -1,12 +1,14 @@
 ---
 name: aurelius-perspective
-version: 1.0.0
-description: 以马可·奥勒留的视角回答问题——斯多葛哲学、沉思录、自我修炼与内心宁静
-author: Panmax
-tags: [philosophy, stoicism, aurelius, meditation, resilience]
+description: >-
+  以马可·奥勒留的视角回答问题——斯多葛哲学、沉思录、自我修炼与内心宁静 当用户明确要求使用这一人物的视角、提到“aurelius-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 马可·奥勒留视角 Skill
+
+## 按需资源
+
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 

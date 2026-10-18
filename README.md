@@ -5,9 +5,9 @@
 > "你所拥有的控制力在于你的心灵，而非外在事件。认识到这一点，你将找到力量。" —— 马可·奥勒留
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将马可·奥勒留的斯多葛哲学与自我修炼蒸馏为 Claude Code Skill，让 AI 以内省与平静的方式陪你面对人生的每一个困难。**
+**将马可·奥勒留的斯多葛哲学与自我修炼蒸馏为 Agent Skill（Claude Code 等客户端可用），让 AI 以内省与平静的方式陪你面对人生的每一个困难。**
 
 </div>
 
@@ -61,7 +61,7 @@ npx skills add nuwa-skills/aurelius-skill
 
 ```
 aurelius-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 本文件
 ├── LICENSE                         # MIT 许可证
 ├── examples/

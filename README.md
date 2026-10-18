@@ -67,7 +67,8 @@ aurelius-skill/
 ├── examples/
 │   └── demo-conversation.md        # 示例对话
 └── references/
-    └── research.md                 # 调研资料与来源
+    ├── research.md                 # 调研资料与来源
+    └── detail.md                   # 扩展资料（附录、思想来源、概念速查等）
 ```
 
 ## 更多 Skill
